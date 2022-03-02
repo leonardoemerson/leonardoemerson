@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Leonardo Emerson!</h1>
-<h3 align="center">Atualmente estudo desenvolvimento Full Stack na Recode Pro, e participo de Datathons e Hackathons.</h3>
+<h3 align="center">Atualmente estudo Ciência da Computação na UFRJ, onde faço parte da Equipe de Competição UFRJ Analytica, especializada em Datathons e Hackathons. Também realizo pesquisa de iniciação científica na área de inteligência artificial com foco em NLP. Além disto, estudo desenvolvimento Full Stack na Recode Pro.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoemerson&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoemerson" /> </p>
 
