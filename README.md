@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, eu sou o Leonardo Emerson!</h1>
-<h3 align="center">Atualmente estudo Ciência da Computação na UFRJ, onde faço parte da Equipe de Competição UFRJ Analytica, especializada em Datathons e Hackathons. Também realizo pesquisa de iniciação científica na área de inteligência artificial com foco em NLP no LabCores UFRJ. Além disto, sou formado em desenvolvimento Full Stack pela Recode Pro.</h3>
+<h3 align="center">Aluno Pesquisador de Mestrado no Programa de Engenharia de Sistemas e Computação (PESC/COPPE/UFRJ). Sou formado em Ciência da Computação na UFRJ, onde participei como Competidor efetivo da equipe UFRJ Analytica e Pesquisador de Iniciação Científica na área de Inteligência Artificial no LabCores UFRJ. Além disto, sou certificado em desenvolvimento Full Stack pela Recode Pro.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoemerson&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoemerson" /> </p>
 
 - 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho e aprender cada vez mais.
 
-- 👨‍💻 Formado em desenvolvimento fullstack pela Recode Pro.
+- 👨‍💻 Certificado em desenvolvimento fullstack pela Recode Pro.
 
 - 📫 Faça contato e saiba mais sobre minha experiência.
 
